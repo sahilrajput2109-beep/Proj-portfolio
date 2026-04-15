@@ -69,14 +69,6 @@ When I'm not coding, you'll find me playing chess or reading tech blogs.`,
       codeLink: "#",
     },
     {
-      title: "Task Manager App",
-      description:
-        "A full-stack to-do application with user authentication, CRUD operations, and a clean Material-inspired UI.",
-      tags: ["React", "Node.js", "MongoDB"],
-      liveLink: "#",
-      codeLink: "#",
-    },
-    {
       title: "Portfolio Website",
       description:
         "This very portfolio! A minimal, responsive personal website built with vanilla HTML, CSS, and JavaScript.",
