@@ -12,9 +12,9 @@ const portfolioData = {
   // ----------------------------------------------------------
   // 🧑 PERSONAL INFO
   // ----------------------------------------------------------
-  name: "Chinmay Ingle",
-  firstName: "Chinmay",   // Used in the hero greeting
-  lastName: "Ingle",      // Displayed large in the hero section
+  name: "Sahil Bassaiye",
+  firstName: "Sahil",   // Used in the hero greeting
+  lastName: "Bassaiye",      // Displayed large in the hero section
   tagline: "Engineering Student & Aspiring Developer",
   resumeLink: "#",        // Link to your resume (Google Drive, etc.)
 
@@ -22,15 +22,15 @@ const portfolioData = {
   // 📖 ABOUT ME
   // ----------------------------------------------------------
   about: {
-    description: `I'm a Second Year Engineering student passionate about building 
+    description: `I'm a First Year Engineering student passionate about building 
 things that live on the internet. I love exploring new technologies, 
 writing clean code, and turning ideas into real-world projects. 
 When I'm not coding, you'll find me playing chess or reading tech blogs.`,
     highlights: [
       { label: "Location", value: "Pune, India" },
       { label: "University", value: "Savitribai Phule Pune University" },
-      { label: "Branch", value: "Artificial Intelligence and Machine Learning" },
-      { label: "Year", value: "Second Year (SE)" },
+      { label: "Branch", value: "Computer Engineering" },
+      { label: "Year", value: "First Year (FE)" },
     ],
   },
 
@@ -40,14 +40,14 @@ When I'm not coding, you'll find me playing chess or reading tech blogs.`,
   // Each skill has a name and a level (1-5).
   // The level controls the visual indicator bar.
   skills: [
-    { name: "HTML & CSS", level: 4 },
-    { name: "JavaScript", level: 3 },
-    { name: "Python", level: 4 },
-    { name: "C / C++", level: 3 },
-    { name: "React.js", level: 2 },
-    { name: "Git & GitHub", level: 3 },
-    { name: "SQL / MySQL", level: 3 },
-    { name: "Java", level: 2 },
+    { name: "HTML & CSS", level: 2 },
+    { name: "JavaScript", level: 1 },
+    { name: "Python", level: 2 },
+    { name: "C / C++", level: 2 },
+    { name: "React.js", level: 1 },
+    { name: "Git & GitHub", level: 1 },
+    { name: "SQL / MySQL", level: 1 },
+    { name: "Java", level: 1 },
   ],
 
   // ----------------------------------------------------------
@@ -99,9 +99,9 @@ When I'm not coding, you'll find me playing chess or reading tech blogs.`,
   // ----------------------------------------------------------
   education: [
     {
-      degree: "B.E. in Artificial Intelligence and Machine Learning",
+      degree: "B.Tech in Computer Engineering",
       institution: "Savitribai Phule Pune University",
-      duration: "2024 – 2028",
+      duration: "2025 – 2029",
       description: "Currently in Second Year. CGPA: 8.5 / 10",
     },
     {
